@@ -77,12 +77,12 @@ The project is divided into the following tasks:
 Feel free to contact us on LinkedIn or GitHub for any questions, suggestions, or collaboration opportunities:
 
 - **Eloi Martin**  
-  - [LinkedIn](#)  
-  - [GitHub](#)
+  - [LinkedIn](https://www.linkedin.com/in/eloi-martin-a20475267/)  
+  - [GitHub](https://github.com/EloiMt)
 
 - **Ahmed Mili**  
-  - [LinkedIn](#)  
-  - [GitHub](#)
+  - [LinkedIn](https://www.linkedin.com/in/ahmedmili/)  
+  - [GitHub](https://github.com/AhmedM1L1)
 
 For contributions, please open an issue or create a pull request.
 

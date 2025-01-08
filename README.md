@@ -59,7 +59,7 @@ The project is divided into the following tasks:
 - **Dataset**:  
   - Natixis stock data (2015-2018) provided in the course material.  
   - FX rate data for multiresolution correlation analysis.
-
+  - Hourly price data for Almgren and Chriss model parameter estimation.
 ---
 
 ## **Structure**
@@ -72,4 +72,17 @@ The project is divided into the following tasks:
 6. **Question E**: Wavelet analysis and Hurst exponent computation.
 
 ---
+## Contributions
+
+Feel free to contact us on LinkedIn or GitHub for any questions, suggestions, or collaboration opportunities:
+
+- **Eloi Martin**  
+  - [LinkedIn](#)  
+  - [GitHub](#)
+
+- **Ahmed Mili**  
+  - [LinkedIn](#)  
+  - [GitHub](#)
+
+For contributions, please open an issue or create a pull request.
 
